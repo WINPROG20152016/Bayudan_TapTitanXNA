@@ -1,0 +1,17 @@
+Content\HeroSprite\hero.xnb
+Content\HeroSprite\spacecow.xnb
+Content\HeroSprite\bg.xnb
+Content\HeroSprite\attack.xnb
+Content\HeroSprite\attack2.xnb
+Content\HeroSprite\blaze.xnb
+Content\HeroSprite\buu-attack.xnb
+Content\HeroSprite\idle2.xnb
+Content\HeroSprite\idle3.xnb
+Content\HeroSprite\buu idle.xnb
+Content\HeroSprite\buu_idle.xnb
+Content\HeroSprite\buu-idle.xnb
+Content\Font.xnb
+Content\HeroSprite\pushed.xnb
+Content\HeroSprite\violet.xnb
+Content\HeroSprite\badge-red.xnb
+Content\HeroSprite\blue-badge.xnb

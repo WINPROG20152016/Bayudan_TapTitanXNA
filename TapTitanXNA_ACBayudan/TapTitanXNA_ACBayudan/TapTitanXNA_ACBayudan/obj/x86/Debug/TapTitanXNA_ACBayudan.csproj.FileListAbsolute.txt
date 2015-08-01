@@ -1,0 +1,23 @@
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\bin\x86\Debug\Content\HeroSprite\hero.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\bin\x86\Debug\Content\HeroSprite\spacecow.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\bin\x86\Debug\Content\HeroSprite\bg.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\bin\x86\Debug\Content\HeroSprite\attack.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\bin\x86\Debug\TapTitanXNA_ACBayudan.exe
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\bin\x86\Debug\TapTitanXNA_ACBayudan.pdb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\obj\x86\Debug\TapTitanXNA_ACBayudan.exe
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\obj\x86\Debug\TapTitanXNA_ACBayudan.pdb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\obj\x86\Debug\TapTitanXNA_ACBayudan.csprojResolveAssemblyReference.cache
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\bin\x86\Debug\Content\HeroSprite\attack2.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\bin\x86\Debug\Content\HeroSprite\blaze.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\bin\x86\Debug\Content\HeroSprite\buu-attack.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\bin\x86\Debug\Content\HeroSprite\idle2.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\bin\x86\Debug\Content\HeroSprite\idle3.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\bin\x86\Debug\Content\HeroSprite\buu idle.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\bin\x86\Debug\Content\HeroSprite\buu_idle.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\bin\x86\Debug\Content\HeroSprite\buu-idle.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\bin\x86\Debug\Content\Font.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\bin\x86\Debug\Content\HeroSprite\pushed.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\bin\x86\Debug\Content\HeroSprite\violet.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\bin\x86\Debug\Content\HeroSprite\badge-red.xnb
+C:\Users\istudent\documents\visual studio 2010\projects\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\TapTitanXNA_ACBayudan\bin\x86\Debug\Content\HeroSprite\blue-badge.xnb

@@ -64,24 +64,20 @@ namespace TapTitanXNA_ACBayudan
 
             if (attackButton.Update(gameTime, mouseX, mouseY, mpressed, prev_mpressed) && damageNumber < 40)
             {
-                damageNumber += 1;
+                if (mouseState.LeftButton == ButtonState.Pressed)
+                {
+                    hero.IdleUpdate(gameTime);
 
+                }
+                if (mouseState.LeftButton == ButtonState.Released)
+                {
+                    damageNumber += 1;
+                    hero.AttackUpdate(gameTime);
 
-                hero.Update(gameTime);
-                oldMouseState = mouseState;
-                
+                }
+            
             }
             
-
-            //else if (attackButton.Update(gameTime, mouseX, mouseY, mpressed, prev_mpressed) && damageNumber >= 35)
-            //{
-            //    attackidle = 1;
-            //    damageNumber = 0;
-
-
-            //    hero.Update(gameTime);
-            //    oldMouseState = mouseState;
-            //}
 
 
         }
@@ -93,7 +89,7 @@ namespace TapTitanXNA_ACBayudan
 
              if (damageNumber <= 9)
              {
-                 spriteBatch.DrawString(damageStringFont, damageNumber + "noobfuck", Vector2.Zero, Color.Pink);
+                 spriteBatch.DrawString(damageStringFont, damageNumber + "sad", Vector2.Zero, Color.Pink);
                  attackButton.Draw(gameTime, spriteBatch);
              }
 
@@ -104,13 +100,20 @@ namespace TapTitanXNA_ACBayudan
              }
              if(damageNumber > 25 && damageNumber < 35)
              {
-                 spriteBatch.DrawString(damageStringFont, damageNumber + "u liek dat u fuckin retard?", Vector2.Zero, Color.Pink);
+                 spriteBatch.DrawString(damageStringFont, damageNumber + "it's starting to hurt", Vector2.Zero, Color.Pink);
                  attackButton.Draw(gameTime, spriteBatch);
              }
 
-             if (damageNumber >= 35)
+             if (damageNumber >= 35 && damageNumber != 40)
              {
                  spriteBatch.DrawString(damageStringFont, damageNumber + "we fokken won", Vector2.Zero, Color.Pink);
+                 attackButton.Draw(gameTime, spriteBatch);
+             }
+             if (damageNumber == 40)
+             {
+                 damageNumber = 40;
+
+                 spriteBatch.DrawString(damageStringFont," STAHP, we won already, nigger", Vector2.Zero, Color.Pink);
                  attackButton.Draw(gameTime, spriteBatch);
              }
 

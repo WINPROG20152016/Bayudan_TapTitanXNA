@@ -43,30 +43,8 @@ namespace TapTitanXNA_ACBayudan
             spritePlayer.PlayAnimation(attackAnimation);
         }
 
-        public void Update(GameTime gameTime)
+        public void IdleUpdate(GameTime gameTime)
         {
-            if (level.mouseState.LeftButton == ButtonState.Pressed && level.oldMouseState.LeftButton == ButtonState.Released)
-            {
-
-                player = content.Load<Texture2D>("HeroSprite/buu-attack");
-
-                attackAnimation = new Animation(player, 0.1f, false, 7);
-
-
-                int positionX = (Level.windowWidth / 2) - (attackAnimation.FrameWidth);
-                int positionY = (Level.windowHeight / 2) - (attackAnimation.FrameHeight);
-                playerPosition = new Vector2((float)positionX, (float)positionY);
-
-                spritePlayer.PlayAnimation(attackAnimation);
-
-                LoadContent();
-
-
-
-            }
-
-            else if (level.mouseState.LeftButton == ButtonState.Released && level.oldMouseState.LeftButton == ButtonState.Pressed)
-            {
                 player = content.Load<Texture2D>("HeroSprite/buu-idle");
 
                 attackAnimation = new Animation(player, 0.1f, true, 7);
@@ -80,8 +58,27 @@ namespace TapTitanXNA_ACBayudan
             }
 
 
+        public void AttackUpdate(GameTime gameTime)
+        {
 
-        }
+                player = content.Load<Texture2D>("HeroSprite/buu-attack");
+
+                attackAnimation = new Animation(player, 0.1f, false, 7);
+
+
+                int positionX = (Level.windowWidth / 2) - (attackAnimation.FrameWidth);
+                int positionY = (Level.windowHeight / 2) - (attackAnimation.FrameHeight);
+                playerPosition = new Vector2((float)positionX, (float)positionY);
+
+                spritePlayer.PlayAnimation(attackAnimation);
+
+                
+            }
+        
+
+
+
+        
 
         public void Draw(GameTime gameTime, SpriteBatch spriteBatch)
         {
